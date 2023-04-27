@@ -5,3 +5,6 @@ class Produto:
         self.descricso = descricao
         self.marca = marca
         self.preco = preco
+
+    def criar_produto ():
+        return Produto
