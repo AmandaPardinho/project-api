@@ -72,4 +72,4 @@ def create_product(id=None):
 # Delete product
 def delete_product(id:int):
     del products[id]
-    return {}
+    return jsonify({"error": "Product not found"}), 404
