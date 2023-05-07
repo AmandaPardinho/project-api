@@ -1,1 +1,1 @@
-projeto em grupo korú
+Projeto em grupo para construção de uma api usando python e flask. O objetivo é ver como uma api funciona, os retornos dos metodos HTTP, o funcionamento de um banco de dados e como o consumo da api afeta os dados contidos no bnaco de dados.
